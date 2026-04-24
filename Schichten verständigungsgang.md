@@ -1,0 +1,5 @@
+Layer 1: Wahrnehmung (Zahlen, Geometrie, Logik)
+Layer 2: Physik (Atome, Kräfte, Licht)
+Layer 3: Biologie (Zellen, Evolution, Gehirne)  
+Layer 4: Technologie (Code, Maschinen, Netze)
+Layer 5: Kultur (Ethik, Gesellschaft, Werte)
